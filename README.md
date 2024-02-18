@@ -2,7 +2,7 @@
 Hey there,<br>👋 I am Rungshit Saha<br>🌱 I’m currently learning Spring Boot<br>👯 I’m looking to collaborate on any Flutter, Spring Boot, Android or UI/UX project<br>💬 Ask me about Android, Flutter, Machine Learning<br>📫 How to reach me : rungshitsaha2003@gmail.com<br>👨‍💻 All of my projects are available at https://rungshitsaha2003.wixsite.com/portfolio<br>
 
 
-## 🌐 Socials:
+## 🌐 Socials: 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/rungshitsaha) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/in_the_sierra_kilo_yankee) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rungshitsaha) 
 
 # 💻 Tech Stack:
